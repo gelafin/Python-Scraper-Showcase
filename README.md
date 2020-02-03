@@ -4,7 +4,7 @@ Portfolio Item for Python Scraper which isn't Open-Source. This bot will eventua
 ## Google Play Scraper
 Family- and faith-friendly Play store browsing is here at last!
 
-Wordpress Site: https://wordpress.com/block-editor/page/yayreplay.wordpress.com/2
+Wordpress Site: https://yayreplay.wordpress.com/
 
 Current Progress (as of 1/17): Fixed robots.txt parsing bug. Can now parse a robots.txt and then scrape data to csv file. Working on learning backend framework and database manager.
 
